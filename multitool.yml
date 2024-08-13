@@ -41,4 +41,4 @@ dependencies:
 - oceans
 - pip:
   - pyRSKTools
-  - hg+https://currents.soest.hawaii.edu/hgstage/pycurrents/#egg=pycurrents
+#  - hg+https://currents.soest.hawaii.edu/hgstage/pycurrents/#egg=pycurrents
