@@ -1,4 +1,4 @@
-name: arrr
+name: arrr  # The R environment for using oce
 channels:
   - conda-forge
 dependencies:
