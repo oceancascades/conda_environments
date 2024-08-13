@@ -1,0 +1,44 @@
+name: multitool  # The 'utility tool' environment for quick and dirty tasks
+channels:
+- conda-forge
+dependencies:
+# Python
+- python=3
+- pip
+- ipykernel
+- ipython
+# Code formatting
+- black
+- isort
+- flake8
+- ruff
+# Plotting
+- matplotlib
+- cmocean
+- cartopy
+# Misc
+- tqdm
+- mercurial
+# Data analysis
+- netcdf4
+- awkward
+- numpy
+- statsmodels
+- pandas
+- scipy
+- xarray
+- xmitgcm
+- xgcm
+- dask
+- bottleneck
+# Geospatial
+- rioxarray
+- geopandas
+- utm
+# Oceanography
+- gsw
+- seawater
+- oceans
+- pip:
+  - pyRSKTools
+  - hg+https://currents.soest.hawaii.edu/hgstage/pycurrents/#egg=pycurrents
