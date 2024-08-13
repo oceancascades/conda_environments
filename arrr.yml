@@ -1,0 +1,7 @@
+name: arrr
+channels:
+  - conda-forge
+dependencies:
+  - r-essentials
+  - r-base
+  - r-oce
