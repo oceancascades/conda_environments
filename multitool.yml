@@ -39,6 +39,9 @@ dependencies:
 - gsw
 - seawater
 - oceans
+- dolfyn
+- echopype
 - pip:
   - pyRSKTools
+  - mixsea
 #  - hg+https://currents.soest.hawaii.edu/hgstage/pycurrents/#egg=pycurrents
