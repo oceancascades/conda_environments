@@ -5,3 +5,4 @@ dependencies:
   - r-essentials
   - r-base
   - r-oce
+  - r-ncdf4
