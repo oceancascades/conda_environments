@@ -16,6 +16,8 @@ dependencies:
 - matplotlib
 - cmocean
 - cartopy
+- plotly
+- holoviews
 # Misc
 - tqdm
 - mercurial
@@ -45,4 +47,5 @@ dependencies:
 - pip:
   - pyRSKTools
   - mixsea
+  - seabirdscientific
 #  - hg+https://currents.soest.hawaii.edu/hgstage/pycurrents/#egg=pycurrents
