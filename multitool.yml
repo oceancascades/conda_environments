@@ -18,6 +18,7 @@ dependencies:
 - cartopy
 - plotly
 - holoviews
+- hvplot
 # Misc
 - tqdm
 - mercurial
