@@ -24,6 +24,7 @@ dependencies:
 - mercurial
 # Data analysis
 - netcdf4
+- h5py
 - awkward
 - numpy
 - statsmodels
