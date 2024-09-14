@@ -36,6 +36,7 @@ dependencies:
 - xgcm
 - dask
 - bottleneck
+- pywavelets
 # Geospatial
 - rioxarray
 - geopandas
