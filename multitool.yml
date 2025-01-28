@@ -47,6 +47,7 @@ dependencies:
 - oceans
 - dolfyn
 - echopype
+- copernicusmarine
 - pip:
   - pyRSKTools
   - mixsea
