@@ -48,6 +48,7 @@ dependencies:
 - dolfyn
 - echopype
 - copernicusmarine
+- earthaccess
 - pip:
   - pyRSKTools
   - mixsea
