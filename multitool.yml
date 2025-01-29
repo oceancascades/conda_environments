@@ -30,6 +30,7 @@ dependencies:
 - statsmodels
 - pandas
 - polars
+- fastexcel
 - openpyxl
 - scipy
 - xarray
