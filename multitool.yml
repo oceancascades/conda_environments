@@ -29,6 +29,7 @@ dependencies:
 - numpy
 - statsmodels
 - pandas
+- polars
 - openpyxl
 - scipy
 - xarray
