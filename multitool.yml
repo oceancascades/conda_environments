@@ -52,6 +52,7 @@ dependencies:
 - copernicusmarine
 - earthaccess
 - podaac-data-subscriber
+- harmony-py
 - pip:
   - pyRSKTools
   - mixsea
