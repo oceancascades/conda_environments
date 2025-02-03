@@ -19,6 +19,7 @@ dependencies:
 - plotly
 - holoviews
 - hvplot
+- nbformat
 # Misc
 - tqdm
 - mercurial
