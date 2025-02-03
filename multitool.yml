@@ -51,6 +51,7 @@ dependencies:
 - echopype
 - copernicusmarine
 - earthaccess
+- podaac-data-subscriber
 - pip:
   - pyRSKTools
   - mixsea
