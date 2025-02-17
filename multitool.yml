@@ -20,6 +20,8 @@ dependencies:
 - holoviews
 - hvplot
 - nbformat
+- bokeh
+- jupyter_bokeh
 # Misc
 - tqdm
 # - mercurial
