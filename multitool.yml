@@ -38,6 +38,7 @@ dependencies:
 - openpyxl
 - scipy
 - xarray
+- flox
 - xmitgcm
 - xgcm
 - dask
